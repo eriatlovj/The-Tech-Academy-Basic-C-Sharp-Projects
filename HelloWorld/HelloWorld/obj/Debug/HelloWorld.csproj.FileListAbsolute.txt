@@ -1,0 +1,12 @@
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Camille\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Camille\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
