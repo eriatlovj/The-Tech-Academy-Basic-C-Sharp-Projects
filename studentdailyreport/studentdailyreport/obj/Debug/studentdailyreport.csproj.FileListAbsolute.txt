@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\bin\Debug\studentdailyreport.exe.config
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\bin\Debug\studentdailyreport.exe
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\bin\Debug\studentdailyreport.pdb
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\obj\Debug\studentdailyreport.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\obj\Debug\studentdailyreport.exe
+C:\Users\Camille\source\repos\studentdailyreport\studentdailyreport\obj\Debug\studentdailyreport.pdb
