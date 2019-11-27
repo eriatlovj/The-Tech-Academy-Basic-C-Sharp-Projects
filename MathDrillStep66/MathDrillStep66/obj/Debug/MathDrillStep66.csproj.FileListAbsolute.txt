@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\bin\Debug\MathDrillStep66.exe.config
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\bin\Debug\MathDrillStep66.exe
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\bin\Debug\MathDrillStep66.pdb
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\obj\Debug\MathDrillStep66.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\obj\Debug\MathDrillStep66.exe
+C:\Users\Camille\source\repos\MathDrillStep66\MathDrillStep66\obj\Debug\MathDrillStep66.pdb
