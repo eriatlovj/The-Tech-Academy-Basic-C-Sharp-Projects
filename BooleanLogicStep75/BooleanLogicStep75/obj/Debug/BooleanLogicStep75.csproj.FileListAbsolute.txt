@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\bin\Debug\BooleanLogicStep75.exe.config
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\bin\Debug\BooleanLogicStep75.exe
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\bin\Debug\BooleanLogicStep75.pdb
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\obj\Debug\BooleanLogicStep75.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\obj\Debug\BooleanLogicStep75.exe
+C:\Users\Camille\source\repos\BooleanLogicStep75\BooleanLogicStep75\obj\Debug\BooleanLogicStep75.pdb
