@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\bin\Debug\StringExerciseDrillStep97.exe.config
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\bin\Debug\StringExerciseDrillStep97.exe
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\bin\Debug\StringExerciseDrillStep97.pdb
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\obj\Debug\StringExerciseDrillStep97.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\obj\Debug\StringExerciseDrillStep97.exe
+C:\Users\Camille\source\repos\StringExerciseDrillStep97\StringExerciseDrillStep97\obj\Debug\StringExerciseDrillStep97.pdb
