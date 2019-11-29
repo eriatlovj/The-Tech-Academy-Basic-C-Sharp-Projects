@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\bin\Debug\BranchingDrillStep92.exe.config
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\bin\Debug\BranchingDrillStep92.exe
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\bin\Debug\BranchingDrillStep92.pdb
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\obj\Debug\BranchingDrillStep92.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\obj\Debug\BranchingDrillStep92.exe
+C:\Users\Camille\source\repos\BranchingDrillStep92\BranchingDrillStep92\obj\Debug\BranchingDrillStep92.pdb
