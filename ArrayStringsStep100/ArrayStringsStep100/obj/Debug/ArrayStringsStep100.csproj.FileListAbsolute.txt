@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\bin\Debug\ArrayStringsStep100.exe.config
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\bin\Debug\ArrayStringsStep100.exe
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\bin\Debug\ArrayStringsStep100.pdb
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\obj\Debug\ArrayStringsStep100.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\obj\Debug\ArrayStringsStep100.exe
+C:\Users\Camille\source\repos\ArrayStringsStep100\ArrayStringsStep100\obj\Debug\ArrayStringsStep100.pdb
