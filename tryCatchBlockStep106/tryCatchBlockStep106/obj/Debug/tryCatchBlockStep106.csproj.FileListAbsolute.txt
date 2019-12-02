@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\bin\Debug\tryCatchBlockStep106.exe.config
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\bin\Debug\tryCatchBlockStep106.exe
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\bin\Debug\tryCatchBlockStep106.pdb
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\obj\Debug\tryCatchBlockStep106.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\obj\Debug\tryCatchBlockStep106.exe
+C:\Users\Camille\source\repos\tryCatchBlockStep106\tryCatchBlockStep106\obj\Debug\tryCatchBlockStep106.pdb
