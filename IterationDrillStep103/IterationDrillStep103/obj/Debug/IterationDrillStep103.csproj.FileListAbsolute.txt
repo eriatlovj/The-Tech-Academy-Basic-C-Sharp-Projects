@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\bin\Debug\IterationDrillStep103.exe.config
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\bin\Debug\IterationDrillStep103.exe
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\bin\Debug\IterationDrillStep103.pdb
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\obj\Debug\IterationDrillStep103.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\obj\Debug\IterationDrillStep103.exe
+C:\Users\Camille\source\repos\IterationDrillStep103\IterationDrillStep103\obj\Debug\IterationDrillStep103.pdb
