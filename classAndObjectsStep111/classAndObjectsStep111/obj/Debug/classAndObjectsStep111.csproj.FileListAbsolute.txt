@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\bin\Debug\classAndObjectsStep111.exe.config
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\bin\Debug\classAndObjectsStep111.exe
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\bin\Debug\classAndObjectsStep111.pdb
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\obj\Debug\classAndObjectsStep111.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\obj\Debug\classAndObjectsStep111.exe
+C:\Users\Camille\source\repos\classAndObjectsStep111\classAndObjectsStep111\obj\Debug\classAndObjectsStep111.pdb
