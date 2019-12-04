@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\obj\Debug\DrillStep114.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\bin\Debug\DrillStep114.exe.config
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\bin\Debug\DrillStep114.exe
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\bin\Debug\DrillStep114.pdb
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\obj\Debug\DrillStep114.exe
+C:\Users\Camille\source\repos\DrillStep114\DrillStep114\obj\Debug\DrillStep114.pdb
