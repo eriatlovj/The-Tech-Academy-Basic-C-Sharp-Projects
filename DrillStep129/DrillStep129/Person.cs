@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,15 +6,21 @@ using System.Threading.Tasks;
 
 namespace DrillStep129
 {
-    abstract class Person
+    public abstract class Person
     {
-        public string firstName;
-        public string lastName;
+        public int Id { get; set; }
 
-        public string firstName1;
-        public string lastName1;
 
-        public abstract void sayName();
+        public abstract void SayName();
+
+        public static bool operator ==(Person person1, Person person2)
+        {
+            return (person1.Id == person2.Id);
+        }
+
+        public static bool operator !=(Person person1, Person person2)
+        {
+            return (person1.Id != person2.Id);
+        }
     }
 }
-
