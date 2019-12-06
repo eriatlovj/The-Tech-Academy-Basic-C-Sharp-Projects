@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace DrillStep124
 {
-    class Employee<T> : Person, IQuittable
+    class Employee : Person, IQuittable
     {
-        public List<T> Things;
         public override void sayName()
         {
             Console.WriteLine(firstName);
