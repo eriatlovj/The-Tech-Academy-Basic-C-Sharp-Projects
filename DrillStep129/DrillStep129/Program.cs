@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,31 +10,24 @@ namespace DrillStep129
     {
         static void Main(string[] args)
         {
+            Person person = new Employee();
 
-            IQuittable Quit = new Employee();
-            Quit.Quit();
-            Employee employee = new Employee();
+            IQuittable quit = new Employee();
 
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
-            employee.ID = 1;
+            quit.Quit(person);
 
-            employee.firstName1 = "Sample";
-            employee.lastName1 = "Student";
-            employee.ID1 = 2;
-            employee.sayName();
+            Person person1 = new Employee();
+            Person person2 = new Employee();
+
+            person1.Id = 10;
+            person2.Id = 01;
+
+            bool isEqual = person1 == person2;
+            Console.WriteLine("Is the ID of person 1 equal to person 2? " + isEqual);
+
+
             Console.ReadLine();
-
-            if (employee.ID == employee.ID1)
-            {
-                Console.WriteLine(true);
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine(false);
-                Console.ReadLine();
-            }
         }
+        
     }
 }
