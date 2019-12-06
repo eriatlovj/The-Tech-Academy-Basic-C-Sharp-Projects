@@ -1,0 +1,6 @@
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\bin\Debug\DrillStep131.exe.config
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\bin\Debug\DrillStep131.exe
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\bin\Debug\DrillStep131.pdb
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\obj\Debug\DrillStep131.csprojAssemblyReference.cache
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\obj\Debug\DrillStep131.exe
+C:\Users\Camille\source\repos\DrillStep131\DrillStep131\obj\Debug\DrillStep131.pdb
